@@ -1,6 +1,4 @@
 <?php
-session_start();
-include_once './../src/setup.php';
 include_once './layout/structure.php';
 
 $iPod    = stripos($_SERVER['HTTP_USER_AGENT'],"iPod");

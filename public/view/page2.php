@@ -15,12 +15,12 @@ $webOS   = stripos($_SERVER['HTTP_USER_AGENT'],"webOS");
 
 if ($iPod || $iPhone || $iPad || $Android) {
   echo '
-<h1 style="margin-top: 100px" class="contenus-rouge">Carroserie Automobile</h1>
-<p class="contenus">Dans nos ateliers, nous nous occupons de votre véhicule quelque soit la marque.
+<h1 style="margin-top: 100px; width: 31%" class="contenus-rouge">Carroserie Automobile</h1>
+<p class="contenus" style="width: 31%">Dans nos ateliers, nous nous occupons de votre véhicule quelque soit la marque.
 <br><br>
 Nous disposons de matériel moderne ainsi que des aires de préparation avec aspiration au sol, table élévatrice, pont &amp; une cabine de peinture dernier cri OMIA LUXIA 700.</p>
 <p class="container">
-  <div style="margin-bottom: 100px;" id="carouselExampleControls" class="contenus carousel slide" data-ride="carousel">
+  <div style="margin-bottom: 100px; width: 31%" id="carouselExampleControls" class="contenus carousel slide" data-ride="carousel">
     <div style="margin-left: 25%; width: 50%;" class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="./images/3.jpg" alt="First slide">
@@ -69,7 +69,7 @@ Nous disposons de matériel moderne ainsi que des aires de préparation avec asp
     </a>
 
 
-    <p style="margin-top: -80px; margin-bottom: 100px" class="contenus">Nous utilisons de la peinture hydro-diluable de la marque CROMAX. Nous effectuons également le changement de votre pare-brise. (Agrément d Assurance avec ALLIANZ)
+    <p style="margin-top: -80px; margin-bottom: 100px; width: 31%" class="contenus">Nous utilisons de la peinture hydro-diluable de la marque CROMAX. Nous effectuons également le changement de votre pare-brise. (Agrément d Assurance avec ALLIANZ)
     <br /><br />
     Nous disposons d’un camion pour le transport de votre véhicule.
     <br /><br />

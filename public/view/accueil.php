@@ -18,7 +18,7 @@ $webOS   = stripos($_SERVER['HTTP_USER_AGENT'],"webOS");
 
 if ($iPod || $iPhone || $iPad || $Android) {
   echo '
-  <h1 style="text-align: center; margin-top: 100px" class="contenus"><span style="font-size:16px; font-weight:800;">La carrosserie Fivestar CBG PEINTURE est située à Aigrefeuille d Aunis en Charente-Maritime.</span></h1>
+  <h1 style="text-align: center; margin-top: 100px" class="contenus-orange"><span style="font-size:16px; font-weight:800;">La carrosserie Fivestar CBG PEINTURE est située à Aigrefeuille d Aunis en Charente-Maritime.</span></h1>
 
   <h2 class="contenus">Cette entreprise a été créée en février 2009 par Grégory BITARD.
   <br /><br />

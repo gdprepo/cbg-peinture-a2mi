@@ -11,16 +11,16 @@ $webOS   = stripos($_SERVER['HTTP_USER_AGENT'],"webOS");
 
 if ($iPod || $iPhone || $iPad || $Android) {
   echo '
-  <h1 style="margin-top: 100px;" class="contenus-rouge">Laquage de mobilier</h1>
+  <h1 style="margin-top: 100px; width: 31%" class="contenus-rouge">Laquage de mobilier</h1>
       
-  <p class="contenus">Nous sommes habilités à laquer des meubles : Laquage sur médium brut pour la réalisation de votre cuisine personnalisée, meubles de salle de bain, tables etc..</p>
+  <p class="contenus" style="width: 31%">Nous sommes habilités à laquer des meubles : Laquage sur médium brut pour la réalisation de votre cuisine personnalisée, meubles de salle de bain, tables etc..</p>
   
-  <p class="contenus">Le laquage peut également s effectuer sur du métal.
+  <p class="contenus" style="width: 31%">Le laquage peut également s effectuer sur du métal.
   <br /><br />
   Nous travaillons avec des menuisiers ainsi que le magasin LIGNE ROSET à Angoulins /mer.</p>
   
   <p class="container">
-    <div style="margin-bottom: 100px;" id="carouselExampleControls" class="contenus carousel slide" data-ride="carousel">
+    <div style="margin-bottom: 100px; width: 31%" id="carouselExampleControls" class="contenus carousel slide" data-ride="carousel">
       <div style="margin-left: 25%; width: 50%;" class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100" src="./images/meuble1.jpg" alt="First slide">
@@ -59,9 +59,9 @@ if ($iPod || $iPhone || $iPad || $Android) {
     </div>
   </p>
     
-  <h1 style="margin-top: -50px; "class="contenus-rouge">Réparation & peinture en milieu Agricole</h1>
+  <h1 style="margin-top: -50px; width: 31%"class="contenus-rouge">Réparation & peinture en milieu Agricole</h1>
   
-  <p class="contenus">Nous effectuons toutes sortes de réparations plastiques et tous travaux de carrosserie & peinture sur vos machines agricoles, anciennes ou récentes.
+  <p class="contenus" style="width: 31%">Nous effectuons toutes sortes de réparations plastiques et tous travaux de carrosserie & peinture sur vos machines agricoles, anciennes ou récentes.
   <br /><br />
   Nous travaillons en relation avec les établissements BALLANGER. (Aigrefeuille d Aunis, St Jean d Angely)</p>
   
@@ -69,12 +69,12 @@ if ($iPod || $iPhone || $iPad || $Android) {
   <br /><br /><!----->
   
   
-  <h1 class="contenus-rouge">Accessoires</h1>
+  <h1 class="contenus-rouge" style="width: 31%">Accessoires</h1>
   
-  <p class="contenus">Vente d’essuies-glace, ampoules & plaques d’immatriculation ...</p>
+  <p class="contenus" style="width: 31%">Vente d’essuies-glace, ampoules & plaques d’immatriculation ...</p>
   
   <p class="container">
-  <div style="margin-bottom: 150px;" id="carouselExampleControls" class="contenus carousel slide" data-ride="carousel">
+  <div style="margin-bottom: 150px; width: 31%" id="carouselExampleControls" class="contenus carousel slide" data-ride="carousel">
     <div style="margin-left: 25%; width: 50%;" class="carousel-inner">
       <div class="carousel-item active">
         <img class="d-block w-100" src="./images/essuiesglace1.jpg" alt="First slide">

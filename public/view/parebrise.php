@@ -12,13 +12,13 @@ $webOS   = stripos($_SERVER['HTTP_USER_AGENT'],"webOS");
 
 if ($iPod || $iPhone || $iPad || $Android) {
   echo '
-  <h1 style="margin-top: 100px" class="contenus-orange">Remplacement de pare-brise et réparation d impact</h1>		
-  <p class="contenus" style="clear:both;">
+  <h1 style="margin-top: 100px; width: 31%;" class="contenus-orange">Remplacement de pare-brise et réparation d impact</h1>		
+  <p class="contenus" style="clear:both; width: 31%">
   Nous changeons et réparons les pare-brises & vitrages de véhicules toutes marques confondues, pour plus de simplicité nous nous occupons de toutes les démarches administratives avec votre assurance.
   <br /><br />
   Pendant le temps du remplacement, nous vous prêtons un véhicule de courtoisie.</p>
   <p class="container">
-  <div style="margin-bottom: 100px;" id="carouselExampleControls" class="contenus carousel slide" data-ride="carousel">
+  <div style="margin-bottom: 100px; width: 31%" id="carouselExampleControls" class="contenus carousel slide" data-ride="carousel">
   <div style="margin-left: 25%; width: 50%;" class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="./images/twingo1.jpg" alt="First slide">
