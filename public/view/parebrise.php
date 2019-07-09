@@ -42,7 +42,7 @@ if ($iPod || $iPhone || $iPad || $Android) {
   ';
 } else {
   echo '
-  <div class="container" style="margin-top: 100px">
+  <div class="container">
     <div style="margin-left: 1%;" id="wrapper">
         <h1 class="contenus-orange">Remplacement de pare-brise et réparation d impact</h1>
         <p class="contenus" style="clear:both;">

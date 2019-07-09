@@ -56,7 +56,7 @@ ZA du Fief Girard<br />
 } else {
   echo '
   <!-- Page Content -->
-  <div class="container" style="margin-top: 100px">
+  <div class="container" style="margin-top: -60px">
     <div id="wrapper">
 
   <!-- <h1 class="contenus-orange">Fermeture exceptionnelle de la carrosserie CBG PEINTURE<br />Le samedi 4 octobre 2014</h1> -->
