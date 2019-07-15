@@ -82,7 +82,7 @@ Nous disposons de matériel moderne ainsi que des aires de préparation avec asp
 } else {
   echo '
   <div class="container">
-    <div style="margin-left: 1%;" id="wrapper">
+    <div style="margin-left: 1%; margin-top: 80px" id="wrapper">
       <h1 class="contenus-rouge">Carroserie Automobile</h1>
       <p class="contenus">Dans nos ateliers, nous nous occupons de votre véhicule quelque soit la marque.
       <br><br>

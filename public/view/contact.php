@@ -13,7 +13,7 @@
       ';
     } else {
       echo '
-    <h1 style="margin-top: 50px; margin-bottom: -50px;" class="contenus-rouge">Nous contacter</h1>
+    <h1 style="margin-top: 130px; margin-bottom: -50px;" class="contenus-rouge">Nous contacter</h1>
 
     </p>
       ';

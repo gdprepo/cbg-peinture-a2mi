@@ -97,7 +97,7 @@ if ($iPod || $iPhone || $iPad || $Android) {
 } else {
   echo '
   <div class="container">
-    <div style="margin-left: 1%;" id="wrapper">
+    <div style="margin-left: 1%; margin-top: 80px" id="wrapper">
 
       				
       <h1 class="contenus-rouge">Laquage de mobilier</h1>

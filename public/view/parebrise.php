@@ -43,7 +43,7 @@ if ($iPod || $iPhone || $iPad || $Android) {
 } else {
   echo '
   <div class="container">
-    <div style="margin-left: 1%;" id="wrapper">
+    <div style="margin-left: 1%; margin-top: 80px" id="wrapper">
         <h1 class="contenus-orange">Remplacement de pare-brise et réparation d impact</h1>
         <p class="contenus" style="clear:both;">
         Nous changeons et réparons les pare-brises & vitrages de véhicules toutes marques confondues, pour plus de simplicité nous nous occupons de toutes les démarches administratives avec votre assurance.
